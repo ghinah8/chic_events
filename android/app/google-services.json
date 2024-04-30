@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606934179929",
+    "project_id": "chic-events-ed916",
+    "storage_bucket": "chic-events-ed916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606934179929:android:6cef4b4bfa0b7475d25148",
+        "android_client_info": {
+          "package_name": "com.example.chic_events"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj8qKX0rHS9lbhIjDE9zsQz-xuFgezUpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
